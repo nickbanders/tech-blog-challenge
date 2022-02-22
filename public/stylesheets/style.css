@@ -160,7 +160,7 @@ main {
 }
 
 .comment:nth-child(odd) {
-  background-color: #fff5eb;
+  background-color: #f8f8f8;
 }
 
 .comment .meta {
