@@ -173,3 +173,7 @@ main {
 .edit-post-form {
   margin-bottom: 5%;
 }
+
+li {
+  list-style-type: none;
+}
